@@ -278,6 +278,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
 | [HiringPlan](https://hiringplan.io) | [@ltse](https://twitter.com/ltse) | Free | HiringPlan is a headcount planning tool for startups with built-in market data. It helps founders adopt a structured compensation plan, pay people fairly and preserve cash and equity runway. |
 | [TLDROptions](https://tldroptions.io) | [@ltse](https://twitter.com/ltse) | Free | A tool for helping employees understand the potential value of their stock options. |
+| [Adaface](https://www.adaface.com) | [@AdafaceAI](https://twitter.com/adafaceai) | Paid | Assessment platform for candidate-friendly conversational assessments for 700+ skills |
 
 ### Payroll
 
